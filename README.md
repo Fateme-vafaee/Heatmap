@@ -18,7 +18,7 @@
 
 
 <div align="center">
-  <img src="logo.PNG" alt="Alt text">
+  <img src="logo.PNG" alt="heatmap">
 </div>
 
 <!-- ABOUT THE PROJECT -->
