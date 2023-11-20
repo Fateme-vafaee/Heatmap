@@ -37,13 +37,13 @@ R Packages
 <ol>
   <li>
     Data Processing:
-    <ul>
+    <ul type='disc'>
       <li>The input matrix is processed to scale values between 0 and 1.</li>
     </ul>
   </li>
   <li>
     Color Palette Setup:
-    <ul>
+    <ul type='disc'>
       <li>
         A color palette is created, ranging from white to dark blue.
       </li>
@@ -54,7 +54,7 @@ R Packages
   </li>
   <li>
     Table Theme Setup:
-    <ul>
+    <ul type='disc'>
       <li>
         The table theme is customized to use the assigned colors for background filling.
       </li>
@@ -62,7 +62,7 @@ R Packages
   </li>
   <li>
     Grid Table Creation:
-    <ul>
+    <ul type='disc'>
       <li>
         The processed data is displayed as a grid table using the defined theme.
       </li>
