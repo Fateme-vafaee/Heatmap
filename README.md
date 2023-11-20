@@ -71,41 +71,52 @@ R Packages
 </ol>
 
 
+## Usage:
+ <ul type='disc'>
+   <li>
+     The function takes a matrix of data as input and generates a heatmap based on the color assignments.
+   </li>
+   <li>
+     Example data is randomly generated to demonstrate the functionality.
+   </li>
+ </ul>
 
+## How to Use:
+<ol>
+  <li>
+    Import the required libraries: gridExtra and grid.
+  </li>
+  <li>
+    Define or import a matrix of data.
+  </li>
+  <li>Call the MyHeatMap function with the data matrix as an argument.
+  </li>
+</ol>
 
+## Customization:
+Users can customize the color palette and theme parameters for different visual effects.
 
-<!-- GETTING STARTED -->
-## Getting Started
+## Note:
+It's advisable to include comments in the code for better readability and understanding.
 
-### Prerequisites
-
-
-* sra
-  sh
-  prefetch SRR8185316.sra
-  prefetch  SRR10538956.sra
-  
-* fastq-dump
-  sh
-  fastq-dump SRR8185316.sra
-  fastq-dump  SRR10538956.sra
- 
- 
-  
-### Installation
-
-Install SPAdes, Canu, Quast, BWA, Samtools, Pilon, or any alternative that you want.
-
+## Example:
+The code includes an example of generating random data and calling the MyHeatMap function to visualize the heatmap.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
+## Dependencies:
 
+The code relies on the grid and gridExtra packages, so ensure they are installed before running the script.
+Author:
+
+Fatemeh vafaee sharbaf
+Feel free to incorporate this description into your GitHub repository's README file. 
 
 <!-- CONTACT -->
 ## Contact
 
-Fereshteh Noroozi - @LinkedIn 
+Vafaeeshaarbaf - @gmail.com
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
