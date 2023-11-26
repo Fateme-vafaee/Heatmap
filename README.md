@@ -8,7 +8,7 @@
 <br />
 <div align="center">
 
-<h3 align="center">Heatmap </h3>
+<h3 align="center">R Heatmap Generator: Visualize Data with MyHeatMap Function </h3>
 
   <p align="center">
     Department of Bioinformatics, IBB, University of Tehran
@@ -24,7 +24,7 @@
 <!-- ABOUT THE PROJECT -->
 ## Heatmap Generator in R
 
-This R code defines a function named MyHeatMap that generates a heatmap based on a given matrix of data. The code utilizes the grid and gridExtra packages for arranging multiple grid-based figures and creating visualizations.
+Unlock powerful data visualization in R with the "MyHeatMap" function. This repository provides a versatile R script for generating heatmaps, offering a dynamic representation of your data. Utilize color gradients to highlight patterns, trends, and variations within your matrix. Whether you're exploring gene expression, analyzing experimental results, or studying complex datasets, this heatmap generator enhances your ability to communicate insights effectively.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## Languages Used
